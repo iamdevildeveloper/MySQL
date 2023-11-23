@@ -1,0 +1,21 @@
+##Que1 What is RDBMS ? 
+##Ans 
+#1  RDBMS stands for Relational Database management system.
+#2  Relational Database is used to manage relational database.
+#3  Some popular Relational databases are MySQL, SQL, PostgreSQL
+#4  RDBMS uses SQL queries to access the data in the database.
+
+##Que2 What is a Database ?
+##Ans
+#1 A database is a group of tables related to that database.
+#2 A table have columns and rows to store info.
+#3 Columns holds specific data about every record.
+#4 Row (or Record) is each individual entry of in table.
+
+##Que3 What is SQL ?
+##Ans
+#1  SQL stands for Structured Query Language
+#2  SQL is the standard language to work with Relational Database
+#3  SQL is used to insert, search, update, and delete database records.
+#4  NOTE: SQL keywords are NOT case sensitive: select is the same as SELECT
+#Que4 What is
