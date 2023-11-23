@@ -18,4 +18,3 @@
 #2  SQL is the standard language to work with Relational Database
 #3  SQL is used to insert, search, update, and delete database records.
 #4  NOTE: SQL keywords are NOT case sensitive: select is the same as SELECT
-#Que4 What is
