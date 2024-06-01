@@ -9,3 +9,5 @@ Set is an extension of enum. Enum stores only one value in a column but set can 
 ALTER TABLE enum_table ADD COLUMN subjects SET('science', 'math', 'english');
 
 INSERT INTO enum_table (gender, subjects) VALUES ('male', 'science,math');
+
+SELECT * FROM enum_table WHERE find_in_set('math', subjects);
