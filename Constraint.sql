@@ -11,3 +11,4 @@ NOT NULL : Vice versa of NULL not null constraint applied to a column which shou
 UNIQUE : A UNIQUE constraint applied to a column to say that a column should only container UNIQUE values like a student ID or email.
 DEFAULT : Assigns a default value to a column when no value is provided.
 AUTO_INCREMENT : AUTO_INCREMENT is used to generate unique values. Like an student id or rowID.
+PRIMARY KEY : Uniquely identifies each row in a table. and it cannot be not null. its very fast.
