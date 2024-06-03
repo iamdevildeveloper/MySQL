@@ -12,3 +12,7 @@ UNIQUE : A UNIQUE constraint applied to a column to say that a column should onl
 DEFAULT : Assigns a default value to a column when no value is provided.
 AUTO_INCREMENT : AUTO_INCREMENT is used to generate unique values. Like an student id or rowID.
 PRIMARY KEY : Uniquely identifies each row in a table. and it cannot be not null. its very fast.
+FOREIGN KEY: {
+    Foreign key establish relationships between two table.
+    A Foreign key in one table refers to primary key in another table
+}
